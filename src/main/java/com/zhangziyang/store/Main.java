@@ -50,6 +50,7 @@ public class Main {
         strategyConfig.setTableFillList(list);
         autoGenerator.setStrategy(strategyConfig);
         autoGenerator.execute();
+        //yyds!
 
 
 
